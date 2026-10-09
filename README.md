@@ -10,7 +10,7 @@ I study **Management and Computer Science** at Boston College (Carroll School of
 #### Other projects
 
 - **AI-generated image and fake news detection** (Deep Learning): a PyTorch CNN that reached 95.4% test accuracy on 110,000+ real and AI-generated faces (best of 5 models), plus fake-news classifiers on 24,000+ articles.
-- **Game mods**: C# plugins (BepInEx) that add economies, skill trees and role systems to Steam games.
+- **Game mods** (Qiqi Steam Lab, my custom mod studio): C# plugins (BepInEx) that add economies, skill trees and role systems to Steam games such as Gamble With Friends, Crime Simulator and Lost Castle 2. Mod repos coming soon.
 
 #### Tools
 
